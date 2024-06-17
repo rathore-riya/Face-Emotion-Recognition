@@ -15,12 +15,12 @@ function Aboutus()
       <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
       <h1>About US</h1>
       <h4>Welcome to our Emotion Detection- Your Partner in Detecting the human mood!</h4>
-      <p>What is Imentiv AI?
-Are you looking to create emotionally appealing content? Look no further than Imentiv AI's advanced Emotion AI tool. Our machine-learning models analyze the emotions of actors in your videos, providing deep insights into the emotional impact of your content.
+      <p>What is FER?
+<p> Facial Emotion Recognition (FER) is the technology that analyses facial expressions from both static images and videos in order to reveal information on one's emotional state.
+How Emotion Recognition work ?
 
-By understanding the emotions conveyed by your actors and story, you can anticipate how your audience will perceive your content. With Imentiv AI's Emotion AI solution, you can create emotionally appealing content that resonates with your viewers, capturing their hearts and minds.
-
-Try Imentiv AI's Emotion AI tool today and unlock the emotional potential of your videos. Take your content to the next level with our Emotion AI solution.</p>
+Our experiences often consist of multiple emotions at once, which, in addition, come in many different degrees, intensities, and qualities. Therefore, the emotion recognition software within our FaceAnalysis package shows the probability distribution of each of the basic emotions: happiness, sadness, anger, fear, surprise, and disgust, as well as neutral.
+</p>
       </div>
       <div className="col-lg-6 order-1 order-lg-2 header-img">
       <img src={image} className="img=fluid animated" alt="home-img"/></div>
