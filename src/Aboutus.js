@@ -42,7 +42,7 @@ Our experiences often consist of multiple emotions at once, which, in addition, 
       Name:HealthCareHub<br></br>
       Address:<a href="https://www.akgec.ac.in/"> Ajay Kumar Garg Engineering College,Ghaziabad<br></br></a>
       Phone:12345<br></br>
-      Email: <a href = "akansha.arora2001.com?">
+      Email: <a href = "riya.singh.com?">
       Email
       </a>
       </p>
